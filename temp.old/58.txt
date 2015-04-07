@@ -1,0 +1,257 @@
+<table cellspacing='0' style='font-size:12px;line-height:135%;
+border-bottom:1px solid #cccccc;'><tbody>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Date de l'examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>06/03/2015</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'># ID de l'examen actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>905</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Conclusion et recommandations du dernier examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Motif de l'examen actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>retard de developpement psychomoteur,souffrance
+néonatale ,hyperactivité et deficit de l'attention</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Nom et prénoms du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>RANAIVOSON  Manana Gracio</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Sexe du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Masculin</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Date de naissance du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>18/09/2012</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Domicile  du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Itaosy</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Numéro de téléphone du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>0348455381</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Profession du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Niveau de scolarisation du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Aucune</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Nom et adresse du médecin demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dr RAZAFIMAHEFA Julien <br/>service neurologie
+HJRB</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Médecin examinateur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Autre médecin</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adresse e-mail neurologue</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>lneurosciences@yahoo.com</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Histoire initiale de la maladie</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>à l'âge de 2 ans:constatation d'un retard du
+langage,d'un trouble d'attention et  d'une hyperactivité</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Evolution depuis la dernière visite</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>exagération de l'hyperactivité <br/>touble de
+l'attention <br/>difficultés lors de la prononciation</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Traitement actuel et tolérance</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Antécédents personnels</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>accouchement à terme ,4è geste,dystocique par OC,pas
+de cris immédiats à la naissance,notion de réanimation
+néonatale,succion immédiate,PN:2825g <br/>pas se notion d'ictère
+néonatale <br/>bon developpement staturo-pondérale <br/>DPM:peut
+monter et descendre les escaliers,court vite,tape dans un ballon <br/>
+       peut ouvrir une bouteille <br/>        ne dit pas encore de
+phrase,ne designe pas encore les objets ,dit des mots simples <br/>   
+    enfant pas encore propre</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Antécédents familiaux</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>pas de notion d'epilepsie</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan antérieur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Traitements antérieurs</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Plaintes et modifications de comportement</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>hyperactivité <br/>trouble du language  <br/>trouble
+de l'attention</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat général</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>poids:12kg <br/>sommeil conservé <br/>appétit
+conservé</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat neurologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>pas de deficit sensitivo-moteur <br/>pas de trouble de
+la vigilance <br/>trouble de l'attention <br/>difficultés lors de la
+parole <br/>pas d'anomalies des paires craniens</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Reste de l'examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>nuque souple <br/>pas d'hypotonie axiale
+<br/>fontannelle fermé <br/>reste de l'ecamen normal</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan biologique et bactériologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Explorations fonctionnelles</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan morphologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan histologique et anatomo-pathologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Synthèse clinique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Garçon de 2ans et demi, acccouché à
+terme,eutrophique,antécédents d'anoxie néonatale venu pour EEG
+effectué pour:retard de developpement psychomoteur,souffrance
+néonatale,hyperactvité et déficit de l'attention,présentant à
+l'examen un enfant agité,hyperactif,avec un trouble de l'attention et
+des difficultés de la parole,reste de l'examen neurologique
+normal,avec un retard de developpement psychomoteur surtout concernant
+le language,developpement staturo-pondérale normal,reste de l'examen
+normal,sans traitement actuellement</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Technique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Appareil numérique, vitesse à 15 mm/s et amplitude 70
+µV/cm. Montage enfant/adulte, 16 voies, bipolaire, dérivations
+longitudinales et transversales.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat de vigilance du malade durant l'EEG</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Eveillé, yeux ouverts, agité</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Tests de réactivité</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>N/A</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Epreuves d'activation</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Hyperpnée provoquée</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Artefacts</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Electrodes, Environnementaux</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité de base</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-onde thêta 7hz, occipitale, rythmique, instable,
+asynchrone, asymétrique, réactivité à l'ouverture des yeux non
+explorée</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité au repos</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-bouffés des ralentissements delta 3hz, diffuses
+paroxystiques</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité après épreuves  d'activation</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-HPN non pratiquée, SLI sans effet notable</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Autres activités rythmiques ou paroxystiques
+physiologiques</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-déstabilisation totale des tracés </td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Interprétation du tracé</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-rythme de base mal structurée, ralentissement delta
+en bouffés au repos sans effet notable à l'activation</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Comparaison par rapport au dernier tracé</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Conclusion du bilan clinique et électrique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-épilepsie généralisée idiopathique, tracés
+actuels en faveur</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Recommandations</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-Introduire la DEPAKINE par palier de 10 mg/kg/j tous
+les 5j jusqu’à dose thérapeutique de 25 à 30 mg/kg/j en 2 à 3
+prises/j <br/>Evaluer la tolérance clinique (éruption cutanée,
+hyper somnolence,  vomissement), biologique (NFS, Transaminase)
+mensuel durant le premier trimestre <br/>Evaluer la réponse
+thérapeutique (comportement du patient, intervalle de crise)
+<br/>Contrôle électro-clinique régulière tous les 6 mois</td></tr>
+</tbody></table>
+

@@ -1,0 +1,288 @@
+<table cellspacing='0' style='font-size:12px;line-height:135%;
+border-bottom:1px solid #cccccc;'><tbody>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Date de l'examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>22/01/2015</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'># ID de l'examen actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>0275-2015</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Conclusion et recommandations du dernier examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Motif de l'examen actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Calcification au scanner cérebral avec AIT</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Nom et prénoms du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>RAJOELINA Perpetue</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Sexe du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Féminin</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Date de naissance du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>24/03/1939</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Domicile du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Imerimanjaka</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Numéro de téléphone du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>0340759690</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adresse e-mail du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>b@yahoo.fr</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Profession du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Aucune</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Niveau de scolarisation du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Universitaire</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Nom et prénoms du demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dr RAJOMARSON</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adresse professionnelle du demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Clinique Ankadifotsy</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Téléphone du demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>0202223554</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Email du demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>ln@neuro.org</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Médecin examinateur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dr Fleur RANDRIANANTOANDRO</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adresse e-mail neurologue</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>lnsm@neuromg.org</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Première crise</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>notion accident vasculaire cérébral transitoire ,
+s'installant  de façon brutale le  20/09/2014 de l'âge de 75 ans,
+par paresie de membre supérieur droit avec difficulter à la
+préhension,prise de CAPACE 50mg:1cpr, disparition spontanée le
+lendemain,scanner cérébral : normal , evoluant de l'âge de  75ans
+il y a 3 mois <br/>Autres symptomes: pas de cephalée, ni de
+paresthesie des membres, faiblesse des membres, somnolence de l'âge
+de 75 ans</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Evolution de la maladie après la première
+crise</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>bonne amélioration avec disparition
+spontanée de la paresie</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Evolution de la maladie depuis le dernier examen
+EEG</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Tolérance du traitement</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dernière crise</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Traitement actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>CAPACE 50mg:1-0-1, AMADAY10mg;0-1-0, ASPEGIC NRS:1
+sachet-0-0,</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Grossesse, accouchement, trauma et ictère
+néonatal</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dévéloppement staturo-pondéral</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Développement psychomoteur, social  et
+scolaire</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>normal</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Autres antécédents personnels</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Notion HTA connue depuis l'âge de 55 ans , traitée
+régulièrement , pas de notion de diabète connu Arhrose de la hanche
+droite</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Antécédents familiaux d'épilepsie et
+neuropsychiatriques ou autres</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Antécedents familiaux d'AVC; collatéral; 1
+frère</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Traitements antérieurs</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Plaintes et modifications de comportement</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucune</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat général</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>bon état général, P:64kg, Taille; 164cm</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat neurologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>normale</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Reste de l'examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>normal</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan biologique et bactériologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Explorations fonctionnelles</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan morphologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>scaner cérébral du 10/2014: calcification
+probable</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan histologique et anatomo-pathologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Synthèse clinique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Femme de 76 ans,hypertendue  avec antécdents familiaux
+d'AVC, sans antécdents familiaux d'epilepsie, presente 'Accidennt
+ischémique transitoire  à  predominance brachiale droite,
+s'installant de l'âge de  75 ans il y a 3 mois, non accompagnée de
+deficit moteur ou sensitif, sans trouble de comportement,calme à
+l'examen clinique, traitées par: Antihypertenseurs jusqu'à ce
+jour</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Technique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Appareil numérique, vitesse à 15 mm/s et amplitude 70
+µV/cm. Montage enfant/adulte, 16 voies, bipolaire, dérivations
+longitudinales et transversales.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat de vigilance du malade durant l'EEG</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Eveillé, yeux fermés, calme</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Tests de réactivité</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Ouverture et fermeture des yeux</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Epreuves d'activation</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Hyperpnée provoquée, Stimulation lumineuse
+intermittente</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Artefacts</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Electrodes</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité de base</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité au repos</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité après épreuves  d'activation</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Autres activités rythmiques ou paroxystiques
+physiologiques</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Interprétation du tracé</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Comparaison par rapport au dernier tracé</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Conclusion du bilan clinique et électrique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Recommandations</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+</tbody></table>
+

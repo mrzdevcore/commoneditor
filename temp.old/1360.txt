@@ -1,0 +1,290 @@
+<table cellspacing='0' style='font-size:12px;line-height:135%;
+border-bottom:1px solid #cccccc;'><tbody>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Date de l'examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>25/02/2015</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'># ID de l'examen actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>759</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Conclusion et recommandations du dernier examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>2013 - 0148 : crises phonatoires secondairement
+généralisées <br/>PHÉNOBARBITAL</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Motif de l'examen actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>controle</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Nom et prénoms du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>RAZAFIMAHATRATRA</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Sexe du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Masculin</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Date de naissance du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>01/01/1953</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Domicile du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>AMBATOLAMPY</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Numéro de téléphone du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>0341560163</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Profession du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>cultivateur</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Niveau de scolarisation du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Scolaire</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Nom et prénoms du demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Pr Rado ANDRIANASOLO</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adresse professionnelle du demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>CHJRB</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Médecin examinateur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dr Hasina RAZAKAHARIMANANA</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adresse e-mail neurologue</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>lnsm@neuromg.org</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Première crise</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>25 ans, type de crise: crises phonatoires
+secondairement généralisées, nombre: à répétition, circonstance
+: apyretique. <br/>Notion de perte de contact avec sursauts ,
+évoluant de l'age de 25 ans.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Evolution de la maladie après la première
+crise</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>fréquentes.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Evolution de la maladie depuis le dernier examen
+EEG</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>évolution stationnaire.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Tolérance du traitement</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bonne tolérance du traitement.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dernière crise</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>20.02.2015, age: 62 ans, type de crise: idem, nombre:
+idem, circonstance: idm.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Traitement actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>PHENOBARBITAL 100mg depuis des annnées mais
+persistance des crises avec inobservance du traitement .
+<br/>Traitement actuel : DEPAKINE Chrono 500mg:1 1/2 -0- 1 1/2  depuis
+5 j ( 20.02.2015).</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Grossesse, accouchement, trauma et ictère
+néonatal</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>normal.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dévéloppement staturo-pondéral</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>normal.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Développement psychomoteur, social  et
+scolaire</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>normal.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Autres antécédents personnels</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>pas de notion de convulsions fébriles du NRS avec
+notion de  traumatisme  crânien avec perte de connaissance initiale
+en 2010, pas de parasitose cérébrale ni  tumeur ni 
+méningite.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Antécédents familiaux d'épilepsie et
+neuropsychiatriques ou autres</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>1 cousin du coté paternel épileptiques.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Traitements antérieurs</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Phénobarbital</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Plaintes et modifications de comportement</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>confusion mentale.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat général</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Poids antérieurs: 68.5kg      poids actuel: 62
+kg.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat neurologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>normal.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Reste de l'examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>normal.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan biologique et bactériologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>sérologie cysticercose : positives en 2011</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Explorations fonctionnelles</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>EEG en 2013: normaux.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan morphologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>TDM cérébrale du 2011: en faveur de neurocysticercose
+.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan histologique et anatomo-pathologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Synthèse clinique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Homme de 62ans, ayant un antécédent de traumatisme
+cranien avec perte de connaissance initiale en 2010 , notion de
+parasitose cérébral en 2011, avec antécédent familial d'épilepsie
+, est revenu pour controle EEG éffectué pour des crises convulsives
+partielles  secondairement généralisées , apyretique,
+récidivantes, , sérielles,des crises d'absence et des sursauts ,
+évoluant de l'age de 25 ans, sans deficit sensitivo-moteur , d'examen
+neurologique normal , confusion mental à l'examen clinique , bilan
+EEG montrant des tracés normaux, TDM en faveur de neurocysticercose,
+non controlées par PHENOBARBITAL pendant de années avec inobservance
+du traitement ,traitées par DEPAKINE: 24.19 mg/kg/j en 2 prises
+depuis 5 j.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Technique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Appareil numérique, vitesse à 15 mm/s et amplitude 70
+µV/cm. Montage enfant/adulte, 16 voies, bipolaire, dérivations
+longitudinales et transversales.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat de vigilance du malade durant l'EEG</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Eveillé, yeux fermés, calme</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Tests de réactivité</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Ouverture et fermeture des yeux</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Epreuves d'activation</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Hyperpnée provoquée, Stimulation lumineuse
+intermittente</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Artefacts</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Electrodes</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité de base</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-onde thêta 6c/s, sans prédominance hémisphérique,
+stable, rythmique, asynchrone, symétrique, microvolté, réactive à
+l'ouverture des yeux</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité au repos</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-aucun grapho-élement franchement
+pathologique</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité après épreuves  d'activation</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-HPN et SLI sans effet notable</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Autres activités rythmiques ou paroxystiques
+physiologiques</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Interprétation du tracé</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-rythme de base plus ou moins structurée, aucune
+anomalies pathologiques au repos et à l'activation. Tracés actuels
+sensiblement normaux</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Comparaison par rapport au dernier tracé</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Conclusion du bilan clinique et électrique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-épilepsie symptomatique à début partielle
+</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Recommandations</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-Continuer le traitement à la même dose <br/>Evaluer
+la tolérance clinique (éruption cutanée, hyper somnolence, 
+vomissement), biologique (NFS, Transaminase) mensuel durant le premier
+trimestre <br/>Evaluer la réponse thérapeutique, changer la
+molécule par TEGRETOL 15mg/kg/j en cas inefficacité (comportement du
+patient, intervalle de crise) <br/>Contrôle électro-clinique
+régulière tous les 6 mois</td></tr>
+</tbody></table>
+

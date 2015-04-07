@@ -1,0 +1,287 @@
+<table cellspacing='0' style='font-size:12px;line-height:135%;
+border-bottom:1px solid #cccccc;'><tbody>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Date de l'examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>25/02/2015</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'># ID de l'examen actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>2015/752</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Conclusion et recommandations du dernier examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>céphalée migraineuse <br/>introduire antimigraineux
+de fond</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Motif de l'examen actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>1er contrôle</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Nom et prénoms du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Rakotonirina Mahery</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Sexe du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Masculin</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Date de naissance du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>06/05/2005</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Domicile du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Ambohimanambola</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Numéro de téléphone du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>0336712030</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Profession du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>élève</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Niveau de scolarisation du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Scolaire</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Nom et prénoms du demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dr Andriamanantena</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adresse professionnelle du demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>HUMET Ambohimiandra</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Médecin examinateur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dr Andry RAKOTONDRAMANANA</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adresse e-mail neurologue</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>lnsm@neuromg.org</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Première crise</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>céphalée pariétale, chronique, pulsatile, intense,
+de durée 15 à 30 minutes, 2 fois dans la journée, non précédée
+des auras, ni des vertiges, accompagnée des nausées et vomissement
+suivi d'une amélioration, pas de sono photo phobie, déclenchée par
+l'effort intellectuel, améliorée par le repos au lit, évoluant
+depuis l'âge de 8ans</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Evolution de la maladie après la première
+crise</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>récidive journalière de la
+céphalée</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Evolution de la maladie depuis le dernier examen
+EEG</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>pas d'amélioration</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Tolérance du traitement</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dernière crise</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>25/02/2015</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Traitement actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>DOLIPRANE 1cp/8h</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Grossesse, accouchement, trauma et ictère
+néonatal</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>accouchement normal <br/>cri à la
+naissance</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dévéloppement staturo-pondéral</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>normal</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Développement psychomoteur, social  et
+scolaire</th><td style='text-align:left;color:#444444;padding:7px
+9px;border-top:1px solid #cccccc'>développement psychomoteur normal
+<br/>pas de difficulté scolaire</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Autres antécédents personnels</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>notion de traumatisme crânien par chute sans perte de
+connaissance initiale survenant de l'âge de 2 ans <br/>pas de notion
+de convulsion fébrile du nourrisson</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Antécédents familiaux d'épilepsie et
+neuropsychiatriques ou autres</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>pas d'antécédent familial d'épilepsie <br/>pas de
+notion de cas similaire</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Traitements antérieurs</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Plaintes et modifications de comportement</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>notion sursaut nocturne depuis l'âge de 2ans <br/>pas
+de perte de contact</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat général</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>P: 26kg <br/>sommeil bon</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat neurologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>pas de déficit moteur  <br/>pas de déficit
+sensitif</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Reste de l'examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>normal</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan biologique et bactériologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>serologie cysticercose positive et traitée</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Explorations fonctionnelles</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>EEG du 04/04/2014: tracés normaux</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan morphologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan histologique et anatomo-pathologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Synthèse clinique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>enfant de 10ans, avec antécédent de  traumatisme
+crânien sans perte de connaissance initiale survenant de l'âge de 2
+ans, sans antécédent familial d'épilepsie, est revenu pour
+contrôle EEG effectué pour des céphalée à répétition d'allure
+migraineuse, évoluant depuis l'âge de 8ans, non accompagnée de
+déficit moteur que sensitif, l'examen physique actuel est normal,
+résultat EEG antérieur montre des tracés normaux, traitée par
+DOLIPRANE à la demande</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Technique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Appareil numérique, vitesse à 15 mm/s et amplitude 70
+µV/cm. Montage enfant/adulte, 16 voies, bipolaire, dérivations
+longitudinales et transversales.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat de vigilance du malade durant l'EEG</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Eveillé, yeux fermés, calme</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Epreuves d'activation</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Hyperpnée provoquée, Stimulation lumineuse
+intermittente</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Artefacts</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Electrodes</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité de base</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>modulation théta 5 à 7 Hz, stable, rythmique,
+réactive à l'ouverture et la fermeture des yeux</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité au repos</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>présence d'onde delta, peu ample, périodique,
+temporo-pariéto-occipitale droite</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité après épreuves  d'activation</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>HPN et SLI : sans effet notable</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Autres activités rythmiques ou paroxystiques
+physiologiques</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Interprétation du tracé</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>rythme de base mal structuré avec anomalies lentes
+paroxystiques  temporo-pariéto-occipitale droite</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Comparaison par rapport au dernier tracé</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Conclusion du bilan clinique et électrique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>céphalée d'allure migraineuse symptomatique jusqu'à
+preuve du contraire avec tracé de décharge rythmique du carrefour
+compatible à une migraine ce jour</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Recommandations</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-vue que l'enfant présente plusieurs crise par mois
+avec risque d'abus d'antalgique, la DEPAKINE par palier de 10 mg/kg/j
+tous les 8j jusqu’à dose thérapeutique de 25 à 30 mg/kg/j en 2 à
+3 prises/j est aussi indiquée comme traitement de fond de la migraine
+chez l'enfant <br/>-éducation thérapeutique des parents sur la
+migraine et gestion des crises (AINS+++) <br/>-évaluer la tolérance
+clinique (éruption cutanée, hyper somnolence diurne,  vomissement),
+biologique (NFS, Transaminase) mensuel durant le premier trimestre
+<br/>-évaluer la réponse thérapeutique (comportement
+socio-familial, gain de poids, intervalle de crise, rendement
+scolaire) <br/>-contrôle électro-clinique régulière tous les 6
+mois <br/>-compléter l’exploration en réalisant un scanner
+cérébral avec injection  <br/> <br/></td></tr>
+</tbody></table>
+

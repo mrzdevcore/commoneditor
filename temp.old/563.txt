@@ -1,0 +1,273 @@
+<table cellspacing='0' style='font-size:12px;line-height:135%;
+border-bottom:1px solid #cccccc;'><tbody>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Date de l'examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>25/03/2015</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'># ID de l'examen actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>1146-2015</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Conclusion et recommandations du dernier examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Motif de l'examen actuel</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Difficultés scolaires</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Nom et prénoms du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>RASOLONJANAHARY Mikanto Fifaliana</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Sexe du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Masculin</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Date de naissance du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>23/12/1999</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Domicile  du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Isotry Lot In 18 bis</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Numéro de téléphone du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>0339110328</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adresse e-mail du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>nikanto99@gmail.com</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Profession du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Lycéen</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Niveau de scolarisation du patient</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Lycéen</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Nom et adresse du médecin demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Pr ANDRIATSEHENO Marcellin  <br/>Cabinet Medical à
+Mahamasina</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Téléphone du médecin demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>0340461259</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Email du médecin demandeur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>ln@neuro.org</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Médecin examinateur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Dr Fleur RANDRIANANTOANDRO</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adresse e-mail neurologue</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>lneurosciences@yahoo.com</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Histoire initiale de la maladie</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Difficultés scolaires à type d'oubli et trouble de la
+mémoire et fléchissement scolaire  constaté par  le patient
+lui-même de l'âge de 13 ans il y a 2 ans   <br/>Autres symptômes:
+notion de perte de contact , des sursauts nocturnes de l'âge de 13
+ans</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Evolution depuis la dernière visite</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Traitement actuel et tolérance</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>pas de traitement actuellement</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Antécédents personnels</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Né post terme,1er geste, accouchement dystocique/OC,
+PN:2,500kg, né étonné et anoxique, réanimation néonatale, pas
+d'ictère néonatal  <br/>Développement psychomoteur normal ,pas de
+convulsions fébriles du Nrs  <br/>Traumatisme crânien  par accident
+sur la voie publique par chute sur une bicyclette  avec perte  de
+connaissance immédiate de l'âge de 8 ans</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Antécédents familiaux</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Pas d'antécédents familiaux d'épilepsie</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan antérieur</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Traitements antérieurs</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Plaintes et modifications de comportement</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>oubli, céphalée occipitale parfois</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat général</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bon état général , P:60,8kg, Taille:177cm <br/>pas
+de trouble de sommeil ni de l'appétit</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat neurologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>normal</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Reste de l'examen</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>normal</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan biologique et bactériologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Analyses biologiques: NFS, VSH, Créatininémie,
+calcémie, Magnesemie,  <br/>Analyses d'urines; Calciurie</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Explorations fonctionnelles</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Aucune</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan morphologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Bilan histologique et anatomo-pathologique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Aucun</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Synthèse clinique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Adolescent de 15 ans,né étonné et anoxique, ayant eu
+des antécédents de traumatisme crânien avec perte de connaissance
+immédiate de l'âge de 8 ans, sans antécédents familiaux
+d'épilepsie, présente des difficultés scolaires associées à de
+crises d'absences,des sursauts nocturnes  constaté par  le patient
+lui-même de l'âge de 13 ans, accompagnées de développement
+psychomoteur normal, d'examen neurologique normal, oubli, céphalée
+parfois à l'examen clinique,  <br/>sans traitement jusqu'à ce
+jour.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Technique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Appareil numérique, vitesse à 15 mm/s et amplitude 70
+µV/cm. Montage enfant/adulte, 16 voies, bipolaire, dérivations
+longitudinales et transversales.</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Etat de vigilance du malade durant l'EEG</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Eveillé, yeux fermés, calme</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Tests de réactivité</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Ouverture et fermeture des yeux</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Epreuves d'activation</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Hyperpnée provoquée, Stimulation lumineuse
+intermittente</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Artefacts</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Electrodes</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité de base</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>alpha pariéto-occipitale, bilatérale de 10 Hz,
+symétrique, asynchrone, stable, rythmique, réactive à l'ouverture
+et la fermeture des yeux </td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité au repos</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>absence de grapho-élément franchement pathologique
+</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Activité après épreuves  d'activation</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>HPN : apparition de ralentissement théta diffus de 4
+à 6 Hz, au sein du rythme de base avec des ondes lentes discrètes
+multi focales, notamment fronto-temporale gauche et temporale
+supérieur et rolandique droite  <br/>SLI : sans effet notable
+</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Autres activités rythmiques ou paroxystiques
+physiologiques</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Interprétation du tracé</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>rythme de base normale avec anomalies lentes multi
+focales sur seuil épileptique bas </td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Comparaison par rapport au dernier tracé</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-</td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Conclusion du bilan clinique et électrique</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>difficulté scolaire symptomatique probable sur
+épilepsie généralisée type absence cliniquement avec tracé à la
+limite de la normale </td></tr>
+<tr style='background-color:#ffffff;'><th
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>Recommandations</th><td
+style='text-align:left;color:#444444;padding:7px 9px;border-top:1px
+solid #cccccc'>-continuer l'exploration quitte à prescrire un scanner
+cérébral avec injection à la recherche de lésion encéphalique vue
+la notion de traumatisme antérieur avec perte de connaissance 
+<br/>-discuter la mise sous DEPAKINE vue l'existence de crise
+d'absence clinique  <br/>-contrôle électro-clinique régulier tous
+les 6 mois  <br/></td></tr>
+</tbody></table>
+
